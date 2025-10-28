@@ -1,5 +1,4 @@
 .card{
-    align-items: center;
     text-align: center;
     color: goldenrod;
     background-color: blanchedalmond;
@@ -10,6 +9,8 @@
     border:20px solid goldenrod;
 
 }
+
+
 
 .card:hover{
     background-color: darkred;
