@@ -1,0 +1,16 @@
+.card{
+    align-items: center;
+    text-align: center;
+    color: goldenrod;
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 6px 7px;
+    border:20px solid goldenrod;
+
+}
+
+.card:hover{
+    background-color: darkred;
+}
